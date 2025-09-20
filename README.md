@@ -8,7 +8,7 @@ Focused on leveraging Artificial Intelligence and Machine Learning, and Software
  🎓 I’m **Nanda Sai**, a B.Tech CSE (AI & ML) student at **Jain University, Bangalore**  
  💼 **AI & ML Enthusiast | FullStack Developer | Software Engineering | Problem Solver**  
  🔬 Focused on designing **efficient, impactful, and scalable solutions** using AI, ML, and Software Engineering  
- 🌱 Currently exploring **Deep Learning, Cloud Computing, and FullStack Development**  
+ 🌱 Currently exploring **Machine Learning and FullStack Development**  
  💡 Love solving **real-world problems** through innovative projects and continuous learning  
  🤝 Open to collaborations on **Machine Learning, Web Development, and Software Engineering** projects  
  ⚡ Fun fact: I enjoy experimenting with new technologies and building creative solutions 
