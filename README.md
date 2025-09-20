@@ -49,6 +49,12 @@ Focused on leveraging Artificial Intelligence and Machine Learning, and Software
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandasai2004&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandasai2004&layout=compact&theme=radical)  
 ![Streak](https://streak-stats.demolab.com/?user=Nandasai2004&theme=radical)  
+## 🧠 Competitive Programming
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gorlamandala_Nanda_Sai?theme=dark)
+
+🔗 [Visit my LeetCode Profile](https://leetcode.com/u/Gorlamandala_Nanda_Sai/)
+
 
 ## 🌐 Connect with Me  
 
