@@ -1,17 +1,30 @@
 # Hi there👋  I'm Nanda Sai  😎 
 
-**💼 AI&ML Enthusiast | FullStack Developer| Software Engineering| Problem Solver**
-Focused on leveraging Artificial Intelligence and Machine Learning, and Software Engineering to design efficient, impactful, and scalable solutions. Passionate about continuous learning, solving real-world problems, and contributing to innovative projects
+💼 **Aspiring Junior Data Engineer | AWS Cloud | Python | SQL | AI & ML Enthusiast | Software Engineer**
 
-## 👨‍💻 About Me 
+Passionate about building cloud-based data pipelines, developing ETL workflows, and transforming raw data into meaningful insights using AWS, Python, and SQL. Eager to apply my technical skills, learn industry best practices, and contribute to scalable data engineering solutions.
 
- 🎓 I’m **Nanda Sai**, a B.Tech CSE (AI & ML) student at **Jain University, Bangalore**  
- 💼 **AI & ML Enthusiast | FullStack Developer | Software Engineering | Problem Solver**  
- 🔬 Focused on designing **efficient, impactful, and scalable solutions** using AI, ML, and Software Engineering  
- 🌱 Currently exploring **Machine Learning and FullStack Development**  
- 💡 Love solving **real-world problems** through innovative projects and continuous learning  
- 🤝 Open to collaborations on **Machine Learning, Web Development, and Software Engineering** projects  
- ⚡ Fun fact: I enjoy experimenting with new technologies and building creative solutions 
+
+## 👨‍💻 About Me
+
+🎓 I'm **Nanda Sai**, a B.Tech CSE (AI & ML) student at **Jain University, Bangalore**.
+
+☁️ Aspiring **Junior Data Engineer** passionate about cloud computing and data processing.
+
+🔧 Learning and working with **AWS S3, EC2, IAM, AWS Glue, AWS Lambda, and Glue Data Catalog**.
+
+🐍 Skilled in Python fundamentals, SQL, and data analysis libraries.
+
+📊 Interested in building ETL pipelines, data transformation workflows, and cloud-based data solutions.
+
+🚀 Hands-on practice with AWS projects involving data storage, crawling, cataloging, and ETL processing.
+
+🌱 Currently strengthening my knowledge of **AWS, SQL, Python, PySpark, and Data Engineering**.
+
+🤝 Open to opportunities and collaborations in **Junior Data Engineering, AWS Cloud, and Software Engineering**.
+
+⚡ Passionate about continuous learning and solving real-world problems through technology.
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -32,6 +45,30 @@ Focused on leveraging Artificial Intelligence and Machine Learning, and Software
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & Data Engineering
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Areas of Interest**
+
+- ETL Pipeline Development
+- Cloud Data Engineering
+- Data Extraction, Transformation & Loading
+- AWS Glue Crawlers and Data Catalog
+- Cloud Storage and Data Processing
+- Data Cleaning and Transformation
+- SQL Queries and Data Analysis
+
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
