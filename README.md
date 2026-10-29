@@ -46,9 +46,17 @@ Focused on leveraging Artificial Intelligence and Machine Learning, and Software
 - Artifical Intelligence 
 
  
- ## 📌 Featured Projects  
- 🔹 [Weather Prediction using API](#)  
- 🔹 [Facial Recognition Attendance System using Machine Learning](#)  
+## 🧠 VGG-AttendNet — Smart Attendance Management System
+
+Developed a facial recognition-based attendance management system using Python, Flask, OpenCV, and VGG-Face.
+
+Integrated REST APIs for attendance processing and user management.
+
+Achieved 91.67% accuracy using cosine similarity-based facial recognition.
+
+Reduced manual attendance effort by 90%.
+
+  
 
  ## 📊 GitHub Stats  
 
